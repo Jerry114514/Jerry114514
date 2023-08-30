@@ -2,7 +2,7 @@
 - 👀 I’m interested in FPS games
 - 🌱 I’m currently learning HTML, CSS3, JavaScript, C, C#, SQL Server
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me My E-mail address: 374200774@qq.com , discord: https://discord.gg/bj7sQdTbFT
+- 📫 How to reach me My E-mail address: Kar98kyj@qq.com , discord: https://discord.gg/bj7sQdTbFT
 
 <!---
 Jerry114514/Jerry114514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
